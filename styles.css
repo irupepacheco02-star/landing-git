@@ -3,3 +3,8 @@ body { margin: 0; font-family: sans-serif; background-color: #f4f6f8; color: #22
 .boton { display: inline-block; background-color: #2563eb; color: white; padding: 12px 24px; text-decoration: none; border-radius: 8px; }
 .seccion { max-width: 800px; margin: 40px auto; padding: 30px; background-color: white; border-radius: 12px; }
 footer { text-align: center; padding: 20px; background-color: #111827; color: white; }
+
+.beneficios {
+  border-left: 6px solid #16a34a;
+}
+
